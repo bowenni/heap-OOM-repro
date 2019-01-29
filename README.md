@@ -1,4 +1,5 @@
 To reproduce https://github.com/Microsoft/TypeScript/issues/29597 run `./node_modules/.bin/tsc -p tsconfig.json --outDir built`
+
 The output is
 ```
 <--- Last few GCs --->
